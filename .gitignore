@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#other stuff that does not seem useful to sync
+__ExternalActors__
+__ExternalObjects__
